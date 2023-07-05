@@ -1,9 +1,9 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <span style="font-family: Arial; font-weight: bold;">
+  <h3 style="font-family: Arial; font-weight: bold;">
     Hello
     <img src="https://github.com/AmmrFX/AmmrFX/assets/55325468/b3292e43-252b-43c9-969b-a0295b2bda32" alt="Image" style="width: 50px; height: 50px;">
     there, fellow DEVELOPER'S
-  </span>
+  </H3>
 </div>
 
 
