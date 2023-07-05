@@ -1,4 +1,11 @@
-<span style="font-family: Arial;">Hello there, fellow DEVELOPER'S</span>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <span style="font-family: Arial; font-weight: bold;">
+    Hello
+    <img src="https://github.com/AmmrFX/AmmrFX/assets/55325468/b3292e43-252b-43c9-969b-a0295b2bda32" alt="Image" style="width: 50px; height: 50px;">
+    there, fellow DEVELOPER'S
+  </span>
+</div>
+
 
 <img src="https://github.com/AmmrFX/AmmrFX/assets/55325468/0511f59d-72bb-40d3-8c64-e020df26a881" alt="Image 1" style="width: 100px; height: 100px;">
 <img src="https://github.com/AmmrFX/AmmrFX/assets/55325468/f9894034-8d94-4024-9eed-7e75c5508b85" alt="Image 2" style="width: 100px; height: 100px;">
